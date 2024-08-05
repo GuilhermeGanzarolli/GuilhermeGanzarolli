@@ -1,5 +1,4 @@
 ### Olá, tudo bem? Meu nome é Guilherme Ganzarolli. Seja bem vindo! 👋👾
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeGanzarolli&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGanzarolli&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
