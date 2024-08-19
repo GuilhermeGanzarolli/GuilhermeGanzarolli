@@ -6,6 +6,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGanzarolli&layout=compact&langs_count=6&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeGanzarolli&repo=github-readme-stats")](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
