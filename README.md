@@ -3,14 +3,11 @@
 - Estudo JavaScript/Node e PHP 📚
 
 ##
-
+#### Essas são algumas das principais tecnologias que lido:
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGanzarolli&layout=compact&langs_count=6&theme=tokyonight">
 </div>
 
-##
-
-#### Essas são algumas das principais tecnologias que mais lido:
 <div style="display: inline_block"><br>
   <img align="center" alt="Node.js icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Php icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
