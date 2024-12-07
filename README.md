@@ -1,6 +1,8 @@
 ### Olá, tudo bem? Meu nome é Guilherme Ganzarolli. Seja bem vindo! 👋👾
 - Sou programador Full-Stack 💻
-- Estudo JavaScript/Node e PHP 📚
+- JavaScript/Node
+- React
+- Php
 
 ##
 #### Essas são algumas das principais tecnologias que lido:
